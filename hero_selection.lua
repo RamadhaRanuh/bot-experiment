@@ -80,14 +80,14 @@ local allBotHeroes = {
 	'npc_dota_hero_brewmaster',
         'npc_dota_hero_bristleback',
 	'npc_dota_hero_centaur',
-        'npc_dota_hero_chaos_knight',
+        'npc_dota_hero_chaos_knight',--
         'npc_dota_hero_crystal_maiden',
         'npc_dota_hero_dazzle',
         'npc_dota_hero_death_prophet',
 	'npc_dota_hero_disruptor',
 	'npc_dota_hero_doom_bringer',
         'npc_dota_hero_dragon_knight',
-        'npc_dota_hero_drow_ranger',
+        'npc_dota_hero_drow_ranger',--
         'npc_dota_hero_earthshaker',
 	'npc_dota_hero_elder_titan',
 	'npc_dota_hero_faceless_void',
